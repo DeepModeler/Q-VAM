@@ -6,13 +6,12 @@ Visual prompting has been explored to enhance the ability of vision-language mod
 ![Image text](https://github.com/DeepModeler/Q-VAM/blob/main/image/Fig1.png)
 
 ## Preparation Before Training and Evaluation
-# Create directories
+### Create directories
 Before starting training and evaluating the model, you need to create two folders named `save_model` and `save_result`. These directories will be used to store the trained models and the generated results, respectively.
 
-# Downoad datasets
+### Downoad datasets
 The dataset can be downloaded from the following links:
 * [Med-VQA](https://drive.google.com/file/d/1l9hnxa2Y3D8rhNLldtCQ0vGPhsiWH_Su/view?usp=sharing) 
-
 
 ## Train and Evaluate Q-VAM Model
 To train Q-VAM, run:
