@@ -7,7 +7,7 @@ Visual prompting has been explored to enhance the ability of vision-language mod
 
 ## Datasets
 The dataset can be downloaded from the following links:
-* [med-vqa](https://drive.google.com/file/d/1pyGsm8G0Gig63DAnOdLuUn3IyxrztWtR/view?usp=sharing) 
+* [med-vqa](https://drive.google.com/file/d/1l9hnxa2Y3D8rhNLldtCQ0vGPhsiWH_Su/view?usp=sharing) 
 
 
 ## Train and Evaluate Q-VAM Model
